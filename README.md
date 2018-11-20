@@ -1,2 +1,2 @@
 # js-stuff
-JavaScript exercises, code snippets and small projects
+## JavaScript exercises, code snippets and small projects
