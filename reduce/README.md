@@ -20,4 +20,5 @@ console.log(array1.reduce(reducer, 5));
 
 ## Sources
 <https://www.youtube.com/watch?v=-LFjnY1PEDA>
+
 <https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce>
