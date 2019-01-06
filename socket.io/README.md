@@ -1,4 +1,4 @@
-# Simple socket.io implementation in a chat-app
+# socket.io implementation in chat-app based on NetNinja tutorial
 
 ## Resources
 
