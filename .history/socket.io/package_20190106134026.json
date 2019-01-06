@@ -1,0 +1,15 @@
+{
+  "name": "websockets",
+  "version": "1.0.0",
+  "description": "Socket.io playground",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marek Pikosz",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "nodemon": "^1.18.9"
+  }
+}
